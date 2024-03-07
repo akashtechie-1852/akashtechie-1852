@@ -1,25 +1,21 @@
 <br clear="both">
 
-<h3 align="center">Hi 👋! My name is Nambi Rajan and I'm a Full Stack Developer</h3>
+<h3 align="left">Hi 👋! My name is Nambi Rajan M
+ <br / >
+ A Full Stack Developer</h3>
 
 ###
 
-<br clear="both">
+## Fun Fact 🎈:
 
-<img align="left" height="100" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png"  />
+ <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;">
+• 🔭 I’m currently working on <b>something cool!</b> <br/>
+• 👯 I’m looking to collaborate on <b>cool project.</b><br/>
+• 💬 Ask me about <b>Full Stack</b>.<br/>
+• 📫 Reach me out <a href="https://www.instagram.com/akxsh_.m?igsh=YTI2M29uYWtzZWRz"><b>@akxsh._m</b></a><br/>
+</span>
 
-###
-
-<h6 align="left">• 👯 I’m looking to collaborate on cool project.</h6>
-
-###
-
-<h6 align="left">• 🔭 I’m currently working on something cool!</h6>
-
-###
-
-<br clear="both">
-
+<br />
 
 ## 🕸️ **Front-end Technologies :**
 
@@ -33,10 +29,10 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")][repo]
 [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
 
-## 📱 **Frameworks :**
+## 📱 **Frameworks :** 
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")][repo]
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind")][repo]
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-36b7f0?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind")][repo]
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")][repo]
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")][repo]
 [![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express js")][repo]
